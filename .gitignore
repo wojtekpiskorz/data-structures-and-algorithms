@@ -1,0 +1,16 @@
+
+
+# .gitignore
+
+# Ignore bundler config.
+
+/.bundle
+
+# Ignore the default SQLite database.
+
+/db/*.sqlite3
+
+#DS Store
+
+.DS_Store
+
